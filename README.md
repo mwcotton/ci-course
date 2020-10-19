@@ -1,5 +1,7 @@
 ![Run unit tests.](https://github.com/mwcotton/ci-course/workflows/Run%20unit%20tests./badge.svg)
 
+[![codecov](https://codecov.io/gh/mwcotton/ci-course/branch/main/graph/badge.svg)](https://codecov.io/gh/mwcotton/ci-course)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
